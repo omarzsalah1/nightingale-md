@@ -58,7 +58,7 @@ function initializeVideoModal() {
             <div class="video-modal-content">
                 <button class="video-modal-close" aria-label="Close video"></button>
                 <video id="florenceVideo" controls preload="metadata">
-                    <source src="video/florencedemo.mp4" type="video/mp4">
+                    <source src="video/app-preview.gif" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
