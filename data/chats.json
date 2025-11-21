@@ -25,7 +25,7 @@
   {
     "id": "mammogram_espanol",
     "title": "Mamografía & Transporte (ES)",
-    "audio": "audio/mammo_es.mp3",
+    "audio": "audio/mamo_es.mp3",
     "dialog": [
       ["patient","¿Hola Florence? Hace 3 años de mi última mamografía."],
       ["florence","¡Buenos días María! Sí, tu historial muestra 2021. Vayamos a <strong>agendar</strong>."],
